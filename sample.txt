@@ -2,3 +2,4 @@ Hi all!
 
 git revert 2
 
+change 1
