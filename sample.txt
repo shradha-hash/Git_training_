@@ -6,4 +6,8 @@ git revert 2
 change 1
 change 234
 hello hell
+<<<<<<< Updated upstream
 new team3
+=======
+new team2
+>>>>>>> Stashed changes
