@@ -1,4 +1,4 @@
 Hi all!
 
-git revert 1
+git revert 2
 
